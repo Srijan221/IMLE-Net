@@ -58,15 +58,23 @@ and usability.
 | Rajpurkar et al. | 0.9155 | 87.91 | 0.7895 |
 | **IMLE-Net**| **0.9216** | **88.85** | **0.8057** |
 
+<p align="center" width="100%">
+Visualization of normalized attention scores with red having a higher attention score and yellow having a lower attention score for a 12-lead ECG signal.
+</p>
+
+<p align="center" width="100%">
+    <img src="/images/visualization.png" width="800">
+</p>
 
 
-> Visualization of normalized attention scores with red having a higher attention score and yellow having a lower attention score for a 12-lead ECG signal.
+<p align="center" width="100%">
+Channel Importance scores for the same 12-lead ECG signal.
+</p>
 
-<img src="/images/viz_nor_final.png" width="800">
+<p align="center" width="100%">
+    <img src="/images/graph.png" width="400">
+</p>
 
-> Channel Importance scores for the same 12-lead ECG signal.
-
-<img src="/images/graph.png" width="400">
 
 
 ## Dataset ⚡
