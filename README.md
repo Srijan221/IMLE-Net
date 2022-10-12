@@ -6,7 +6,7 @@
 # IMLE-Net: An Interpretable Multi-level Multi-channel Model for ECG Classification 
 This repostiory contains code, results and dataset links for our ***IEEE:SMC 2021*** oral paper titled ***IMLE-Net: An Interpretable Multi-level Multi-channel Model for ECG Classification***. 📝
 >**Authors:** Likith Reddy, Vivek Talwar, Shanmukh Alle, Raju. S. Bapi, U. Deva Priyakumar.
-
+>**Re-implemented by:** Srijan
 >**More details on the paper can be found [here](https://ieeexplore.ieee.org/document/9658706). Also available on [arxiv](https://arxiv.org/abs/2204.05116).**
 
 ## Table of contents
