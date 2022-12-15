@@ -11,7 +11,7 @@ This repostiory contains code, results and dataset links for our ***IEEE:SMC 202
 
 >**More details on the original paper can be found [here](https://ieeexplore.ieee.org/document/9658706). Also available on [arxiv](https://arxiv.org/abs/2204.05116).**
 
->**Reimplemented paper can be found [here](https://ieeexplore.ieee.org/document/9658706).**
+>**Reimplemented paper can be found [here](https://github.com/Srijan221/IMLE-Net/blob/main/IMLE_Net_Reimplentation.pdf).**
 
 ## Table of contents
 - [Introduction](https://github.com/likith012/IMLE-Net/edit/main/README.md#introduction-)
